@@ -1,0 +1,14 @@
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\methodTanimlama\bin\Debug\net8.0\methodTanimlama.exe
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\methodTanimlama\bin\Debug\net8.0\methodTanimlama.deps.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\methodTanimlama\bin\Debug\net8.0\methodTanimlama.runtimeconfig.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\methodTanimlama\bin\Debug\net8.0\methodTanimlama.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\methodTanimlama\bin\Debug\net8.0\methodTanimlama.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\methodTanimlama\obj\Debug\net8.0\methodTanimlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\methodTanimlama\obj\Debug\net8.0\methodTanimlama.AssemblyInfoInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\methodTanimlama\obj\Debug\net8.0\methodTanimlama.AssemblyInfo.cs
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\methodTanimlama\obj\Debug\net8.0\methodTanimlama.csproj.CoreCompileInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\methodTanimlama\obj\Debug\net8.0\methodTanimlama.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\methodTanimlama\obj\Debug\net8.0\refint\methodTanimlama.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\methodTanimlama\obj\Debug\net8.0\methodTanimlama.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\methodTanimlama\obj\Debug\net8.0\methodTanimlama.genruntimeconfig.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\methodTanimlama\obj\Debug\net8.0\ref\methodTanimlama.dll
